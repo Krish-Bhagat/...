@@ -1,0 +1,23 @@
+body{
+    background-color: aliceblue;
+    color: black;
+}
+
+.heading{
+    width: 80%;
+    font-size: 25px;
+    background-color: aliceblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.name_of_object{
+    color: black;
+}
+
+#camera{
+    border: 2px ridge burlywood;
+    width: 350px;
+    height: 300px;
+}
+
+
